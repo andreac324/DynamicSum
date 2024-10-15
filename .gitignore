@@ -1,5 +1,3 @@
-# Created by https://www.toptal.com/developers/gitignore/api/c++,xcode
-# Edit at https://www.toptal.com/developers/gitignore?templates=c++,xcode
 
 ### C++ ###
 # Prerequisites
@@ -52,4 +50,4 @@ xcuserdata/
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
 
-# End of https://www.toptal.com/developers/gitignore/api/c++,xcode
+
